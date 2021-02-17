@@ -1,9 +1,9 @@
 {
     "versions":[
        {
-          "version":"1.1.1.0",
-          "url":"projects.sdev-software.com/projects/tractor/application/Tractor_1.1.1.0.zip",
-          "changelog":"projects.sdev-software.com/projects/tractor/changelog/Tractor_1.1.1.0.txt",
+          "version":"1.2.0.0",
+          "url":"projects.sdev-software.com/projects/tractor/application/Tractor_1.2.0.0.zip",
+          "changelog":"projects.sdev-software.com/projects/tractor/changelog/Tractor_1.2.0.0.txt",
           "mandatory":{
              "required":true,
              "mode":"forced(automatic, no dialog shown)|inform(dialog is shown, no close though)",
@@ -13,8 +13,8 @@
              "value":"5866e470c16e694f77b55a5211c99d29",
              "algorithm":"md5|sha1,sha256,sha384,sha512"
           },
-          "title":"The jira update",
-          "description":"This update introduces jira integration for Tractor."
+          "title":"The foundation update",
+          "description":"This update introduces bugfixes and meta data for task integration in Tractor."
        }
     ]
  }
