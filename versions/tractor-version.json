@@ -16,5 +16,8 @@
           "title":"The foundation update",
           "description":"This update introduces bugfixes and meta data for task integration in Tractor."
        }
-    ]
+    ],
+    "newest-version-title":"TKA Update",
+    "newest-version":"1.3.5.0",
+    "newest-version-info":"This update introduces expanded functionality for SAP exports. Make sure to get the new version."
  }
