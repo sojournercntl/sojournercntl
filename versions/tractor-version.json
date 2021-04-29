@@ -19,5 +19,6 @@
     ],
     "newest-version-title":"TKA Update",
     "newest-version":"1.3.5.0",
-    "newest-version-info":"This update introduces expanded functionality for SAP exports. Make sure to get the new version."
- }
+    "newest-version-info":"This update introduces expanded functionality for SAP exports. Make sure to get the new version.",
+    "update-file-name": "tractorTest.zip"
+}
